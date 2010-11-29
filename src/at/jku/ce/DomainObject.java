@@ -4,7 +4,7 @@ public class DomainObject {
 
 	private String name;
 	
-	public String id;
+	public String id = UUID.randomUUID().toString()
 
 	/**
 	* Default constructor
