@@ -13,4 +13,8 @@ public class Main {
 	public Main(String comment) {
 	}
 
+	public String getUuid() {
+		return;
+	}
+
 }
