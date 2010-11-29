@@ -17,4 +17,6 @@ public class Main {
 		return;
 	}
 
+objectSet.add(DomainFactory.createDomainObject(...));
+
 }
