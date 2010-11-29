@@ -15,3 +15,8 @@
 	</root>
 
 </log4j:configuration>
+
+<logger name="at.jku.ce" additivity="false" > 
+	<level value="DEBUG" /> 
+	<appender-ref ref="console"/> 
+</logger>
