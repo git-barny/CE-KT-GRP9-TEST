@@ -25,11 +25,13 @@ public class Main {
 	
 	}
 	
-	public Main(String comment) {
+	protected Main(String comment) {
 	}
 
 	public String getUuid() {
 		return;
 	}
+
+objectSet.add(DomainFactory.createDomainObject(...));
 
 }
