@@ -1,6 +1,6 @@
 package at.jku.ce;
 
-public class DomainObject {
+public class DomainObject implements Comarable<DomainObject>{
 
 	private String name;
 	private String uuid = UUID.randomUUID().toString()
