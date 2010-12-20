@@ -1,5 +1,8 @@
-<<<<<<< HEAD
+ABsdf
+<<<<<<< .mine<<<<<<< HEAD
 ABCD
 =======
 A
 >>>>>>> parent of 34e0741... Inhalt: AB
+=======ABCD
+>>>>>>> .theirs
