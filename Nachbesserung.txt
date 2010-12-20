@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ABCD
+=======
+A
+>>>>>>> parent of 34e0741... Inhalt: AB
