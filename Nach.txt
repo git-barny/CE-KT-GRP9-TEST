@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 A,B,C
+=======
+>>>>>>> parent of 756e2ef... Inhalt: A
